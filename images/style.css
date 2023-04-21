@@ -146,6 +146,7 @@ body {
   cursor: pointer;
   color: var(--Desaturated-blue);
   font-weight: bold;
+  font-size: 0.8rem;
 }
 
 
@@ -166,5 +167,13 @@ body {
   body {
     background-image: url("./pattern-background-desktop.svg");
     background-size: 100% 48%;
+  }
+
+  .card-summary__content {
+    padding: 1.6rem;
+  }
+
+  .card-summary__text p {
+    font-size: 1rem;
   }
 }
