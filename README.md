@@ -33,7 +33,7 @@ Esta é uma solução para o [Stats order summary component challenge on Fronten
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Stats preview card component (Tailwind CSS) | Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-tailwind-css-DNUquEvcfB)
+- Solution URL: [Stats preview card component | Frontend Mentor](https://www.frontendmentor.io/solutions/qrcodecomponente-5cBcpdQA9D)
 - Live Site URL: [https://stats-preview-card-component-hdez.vercel.app/](https://fabriciomaxwell.github.io/order-summary-component-main/)
 
 <br>
