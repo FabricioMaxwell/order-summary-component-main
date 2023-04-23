@@ -33,8 +33,8 @@ Esta é uma solução para o [Desafio do componente de resumo da ordem de estat�
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Stats preview card component | Frontend Mentor](https://www.frontendmentor.io/solutions/ordersummarycomponentmain-1zuqWguRNQ)
-- Live Site URL: [https://stats-preview-card-component-hdez.vercel.app/](https://fabriciomaxwell.github.io/order-summary-component-main/)
+- Solution URL: [Order Summary Componente | Frontend Mentor](https://www.frontendmentor.io/solutions/ordersummarycomponentmain-1zuqWguRNQ)
+- Live Site URL: [https://fabriciomaxwell.github.io/order-summary-component-main/](https://fabriciomaxwell.github.io/order-summary-component-main/)
 
 <br>
 
